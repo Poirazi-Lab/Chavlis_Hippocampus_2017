@@ -23,6 +23,7 @@ Each main code should run for different overlaps, specifric comments inside code
 
 For many input patterns use the following code inputs.py
 
+```python
 #####################################################
 from brian import  reinit,clear
 import numpy as np
@@ -49,8 +50,8 @@ def input_patterns(trial_i):
 jobidx = int(sys.argv[1])
 results = input_patterns([jobidx]) # launches multiple processes
 #####################################################
+```
 
-
+```
 python inputs.py <number form 1 to 50>
-
-
+```
