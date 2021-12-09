@@ -1,16 +1,12 @@
-This is the readme for the model associated with the paper:
+# This is the readme for the model associated with the paper:
 
-Chavlis S, Petrantonakis PC, Poirazi P (2017) Dendrites of dentate
-gyrus granule cells contribute to pattern separation by controlling
-sparsity. Hippocampus
+Chavlis S, Petrantonakis PC, Poirazi P. Dendrites of dentate gyrus granule cells contribute to pattern separation by controlling sparsity. Hippocampus, 2017 Jan;27(1):89-110. doi: 10.1002/hipo.22675. Epub 2016 Nov 10. doi: https://doi.org/10.1002/hipo.22675
 
 This python model was contributed by S Chavlis.
 
-Neurons folder
+## Neurons folder
 
-The codes there are for various validation tests in order to create figure2 and several supplement figures
-
-3,6 and 12 dendrites folders
+The codes there are for various validation tests in order to create figure2 and several supplement figures 3,6 and 12 dendrites folders
 
 The main code for every model with 12, 6 and 3 dendrites on Granule Cells.
 
